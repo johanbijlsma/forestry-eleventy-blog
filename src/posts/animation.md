@@ -1,6 +1,6 @@
 ---
-date: 2021-03-10
-title: animation
+date: 2021-03-09
+title: Animation
 tags:
 - Greensock
 - CSS
