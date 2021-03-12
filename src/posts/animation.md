@@ -1,6 +1,6 @@
 ---
 date: 2021-03-09
-title: Bring your site to live by adding transitions & animations
+title: Using animations and transitions to bring your website to life
 tags:
 - Greensock
 - CSS
