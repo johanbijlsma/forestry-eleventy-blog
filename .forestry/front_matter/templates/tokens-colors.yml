@@ -39,25 +39,25 @@ fields:
     label: primary
     config:
       color_format: Hex
-    default: "#173854"
+    default: "#1e2460"
   - type: color
     name: primary-shade
     label: primary-shade
     config:
       color_format: Hex
-    default: "#102538"
+    default: "#1d1c1c;"
   - type: color
     name: primary-glare
     label: primary-glare
     config:
       color_format: Hex
-    default: "#22547c"
+    default: "#2a6478"
   - type: color
     name: highlight
     label: highlight
     config:
       color_format: Hex
-    default: "#fedb8b"
+    default: "#75151e"
   - type: color
     name: light
     label: light
@@ -81,7 +81,7 @@ fields:
     label: slate
     config:
       color_format: Hex
-    default: "#404040"
+    default: "#1d1c1c80"
 - type: field_group
   name: fonts
   label: fonts
